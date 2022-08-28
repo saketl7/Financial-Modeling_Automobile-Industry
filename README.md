@@ -1,1 +1,8 @@
-# Financial-Modelling
+# Automobile Industry - ABC Energy
+
+## Introduction
+The electric two-wheeler set-up appears a lot more promising, in the form of research, financial acquisitions & investments, that makes the electric vehicle segment thrilling. Well, there is also the forward push by the government and the references of its think-tank, NITI Aayog.
+The innovation of internal combustion engine is one of the best creations of humankind. The traditional vehicles with ICE provide a good performance but are the major cause for poor efficiency and environment pollution across the country.
+Decreasing fuel consumption and carbon emissions are the most important goal among the present-day plan of government across the globe. Thinking about the future of a country, an efficient and eco-friendly electric two-wheeler must be designed and manufactured.
+The automobile industry is in the midst of a huge technological disruption. Today, electric is the preferred choice because of its inherent efficiency that will shape urban commute and the cities of tomorrow. In parallel, the world around us is getting connected, enabling integration of devices and making our life experiences seamless. Intelligent vehicles will revolutionize our commute experience in the future and the ABC’s 250 Plus stands at the cusp of this exciting reality.
+ABC Energy is a startup focused on designing and selling premium electric two-wheelers for the Indian market. We want to change the perspective about electric vehicles by building high- performance, zero-maintenance, and smart electric vehicles. The company manufactures only one scooter model at present - 250. We have also established an electric vehicle charging network called ABC Grid.
